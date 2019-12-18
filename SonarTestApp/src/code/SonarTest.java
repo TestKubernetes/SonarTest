@@ -8,7 +8,7 @@ public class SonarTest {
 		System.out.println("Hello world");
 		System.out.println("Hello world new 1 helps");
 		
-		//System.out.print(false);
+		System.out.print(false);
 		
 		
 	}
