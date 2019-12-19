@@ -7,6 +7,8 @@ public class SonarTest {
 		
 		System.out.println("Hello world");
 		System.out.println("Hello world new ");
+		System.out.println("Hello world");
+		System.out.println("Hello world new ");
 		
 		}
 	
