@@ -14,7 +14,7 @@ public class SonarTest {
 		djsldj
 		
 		
-		if(1======2)
+		if(1===2)
 			System.out.println("equal");
 		String password="1234";
 		String password1="12345";
