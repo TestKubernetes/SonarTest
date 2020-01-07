@@ -9,6 +9,8 @@ public class SonarTest {
 		 
 		for(String str : strArray)
 		    System.out.println(str);
+		System.out.println("Hello world");	
+		
 		
 		}
 	
