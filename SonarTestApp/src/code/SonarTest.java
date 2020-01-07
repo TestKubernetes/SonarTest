@@ -8,7 +8,7 @@ public class SonarTest {
 		dnkas,
 		ewjql
 		djsl
-		String password="pasword"
+		String password="pasword";
 				}
 	
 }
