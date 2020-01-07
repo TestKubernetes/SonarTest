@@ -12,6 +12,9 @@ public class SonarTest {
 		System.out.println("Hello world");	
 		
 		djsldj
+		
+		String password="1234";
+		String password1="12345";
 		sadjdlksaj
 		
 	
