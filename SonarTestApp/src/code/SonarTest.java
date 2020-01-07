@@ -11,6 +11,7 @@ public class SonarTest {
 		    System.out.println(str);
 		System.out.println("Hello world");	
 		
+		String password="abcd";
 		
 		}
 	
