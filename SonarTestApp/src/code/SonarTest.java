@@ -6,6 +6,7 @@ class SonarTest {
 		System.out.println("Hello world");
 	//dddddddddddd
 		//lllllllllll
+		//dddddd
 		System.out.println();
 	}
 	
