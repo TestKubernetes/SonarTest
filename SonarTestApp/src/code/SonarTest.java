@@ -6,6 +6,7 @@ class SonarTest {
  System.out.println("Hello World");
 
  //String password = "password";
+ System.out.println("Hello");
 	}
 	
 	
